@@ -42,7 +42,6 @@
 ### 🛠️ Tools & Applications
 
 - **[Robot Lab](https://github.com/xiongy26/robot_lab)** - Web-based robot simulation using MuJoCo WASM
-- **[G1 Boxing WASM](https://github.com/xiongy26/g1-boxing-wasm)** - Interactive Unitree G1 boxing simulation in browser
 - **[Desktop Assistant](https://github.com/xiongy25/desktop_assistant)** - AI-powered "second brain" desktop application
 
 ## 📈 GitHub Stats
