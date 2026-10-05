@@ -31,6 +31,9 @@
 
 ### 🤖 Robotics
 
+- **[G1 Box Carry](https://github.com/xiongy26/unitree-g1-box-carry)** - Browser-based Unitree G1 warehouse simulation with RL walking + contact planning for box manipulation
+- **[G1 Boxing WASM](https://github.com/xiongy26/g1-boxing-wasm)** - Two humanoid robots boxing in browser, powered by MuJoCo WASM + RL policies
+- **[Bipedal Sprint Race](https://github.com/xiongy26/g1-race)** - 6 real bipedal robots (G1/PM01/T1/X1/Tienkung/MicroDuck) racing in browser @ 25m track
 - **[Unitree G1 ZMP Control](https://github.com/xiongy26/unitree-g1-zmp-control)** - ZMP-based gait control for Unitree G1 humanoid robot
 - **[Devq RL Training](https://github.com/xiongy25/Devq_rl_training)** - Reinforcement learning training pipeline for quadruped robots
 - **[Isaac Sim2Real](https://github.com/xiongy25/arm_isaac_sim2real)** - Sim-to-real transfer for robotic arms using Isaac Sim
